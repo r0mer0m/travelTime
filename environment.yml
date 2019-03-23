@@ -33,7 +33,7 @@ dependencies:
   - pyopenssl=19.0.0
   - pyparsing=2.3.1
   - pysocks=1.6.8
-  - python=3.7.1
+  - python=3.7.2
   - pytz=2018.9
   - readline=7.0
   - requests=2.21.0
